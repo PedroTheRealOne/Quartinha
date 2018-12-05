@@ -1,0 +1,13 @@
+08:30:11 [556126858]Douglas:oi
+08:30:47 [556126858]Douglas:/agenda Olá
+08:31:03 [556126858]Douglas:/agenda
+08:33:13 [556126858]Douglas:oi
+08:33:24 [556126858]Douglas:/criaragenda
+08:33:33 [556126858]Douglas:/agenda
+08:33:50 [556126858]Douglas:/criaragenda
+08:33:55 [556126858]Douglas:/agenda
+08:34:07 [556126858]Douglas:/agenda Comer o cu do Fabio
+08:34:16 [556126858]Douglas:/agenda comer o cu do pedro
+08:34:25 [556126858]Douglas:/agenda Deitar o enzo na porrada
+08:34:27 [556126858]Douglas:/agenda
+08:34:42 [556126858]Douglas:/deletaragenda
